@@ -9,7 +9,7 @@ This project predicts whether a student is at risk of mental burnout using behav
 - 🤖 Trained a Logistic Regression model using scikit-learn  
 - 🎯 Achieved 83.3% accuracy on the test set  
 - 🔥 Visualized feature correlations using a heatmap  
-- 📱 Entire project developed on Google Colab using a mobile device  
+- 📱 Entire project developed on Google Colab using a mobile device 
 
 ---
 
